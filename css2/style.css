@@ -41,11 +41,13 @@ h4 {
 	color: black;
 	font-weight: lighter;
 	font-size: 20px;
+	justify-content: justify;
 
 }
  a {
   text-decoration: none;
 }
+
 
 @media (max-width: 960px) {
  
@@ -55,7 +57,7 @@ h4 {
 }
 @media (max-width: 720px) {
 
-  .container {
+.container {
     width: 500px;
   }
 }
